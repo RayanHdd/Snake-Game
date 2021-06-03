@@ -1,2 +1,3 @@
 # Snake-Game
-A simple Snake game written in C
+A simple Console of Snake game written in C
+In partnership with "mohammad79eshrati"
