@@ -1,0 +1,12 @@
+moveblock=M
+deathblock=D
+target=T
+object=M
+time=50
+wall=#
+character=O
+up=w
+down=s
+left=a
+right=d
+Exit=q
